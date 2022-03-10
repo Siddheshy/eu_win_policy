@@ -1,2 +1,4 @@
 # eu_win_policy
-seonnd repo for testing
+
+TODO: Enter the cookbook description here.
+
